@@ -1,0 +1,11 @@
+Mokas Donelaicio 49 10 1 KP800 2
+Svirskis Kestucio 11 10 1 KPJ100 10
+Jokubauskas Vasario 16 9 2 KP700 17
+Dorkus Gedimino 9 8 2 KPJ100 10
+Jokas Sodu 40 10 9 KP200 1
+Mokas Donelaicio 49 1 1 KP800 2
+Svirskis Kestucio 11 2 1 KPJ100 10
+Jokubauskas Vasario 16 3 2 KP700 17
+Dorkus Gedimino 9 4 2 KPJ100 10
+Jokas Sodu 40 10 5 KP200 1
+Jokas Sodu 40 10 5 KA300 1

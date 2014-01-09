@@ -1,0 +1,5 @@
+KP200 Ziemgala 10
+KPJ100 Ausra 9
+KP700 Varpas 50
+KP800 Merta 8
+KA300 Rytas 10

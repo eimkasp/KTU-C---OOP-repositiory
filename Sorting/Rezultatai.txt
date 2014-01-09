@@ -1,0 +1,30 @@
+Ziemgala 140
+Ausra 540
+Varpas 3400
+Merta 32
+Rytas 50
+
+Leidinio Rytas prenumeratoriai 10 menesi:
+Jokas
+
+
+Leidiniai kuriu bendrosios pajamos mazesnes uz vidutines
+Ausra
+Merta
+Rytas
+Ziemgala
+
+Kiekvieno menesio didziausiu pajamu leidinys: 
+1 Merta
+2 Ausra
+3 Varpas
+4 Varpas
+5 Ausra
+6 
+7 
+8 Ausra
+9 Varpas
+10 Varpas
+11 Ziemgala
+12 Ziemgala
+

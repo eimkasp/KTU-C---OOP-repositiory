@@ -1,6 +1,7 @@
 #include "MyForm.h"
-void nuskaitytiLeidini(Leidinys Leid[], int & i) {
 
+// Read data
+void nuskaitytiLeidini(Leidinys Leid[], int & i) {
 	string kodas, pavadinimas;
 	double menKaina;
 	i = 0;

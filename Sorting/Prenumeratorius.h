@@ -3,6 +3,7 @@
 using namespace std;
 
 class Prenumeratorius {
+// Declaring rivate properties of class
 private:
 	string pavarde;
 	string adresas;
@@ -13,8 +14,11 @@ private:
 	int lKiekis;
 	int lPabaiga;
 public:
+	// Constructors
 	Prenumeratorius() : pavarde(""), adresas(""), gatvesSk(0), lPradzia(0), lIlgis(0), lKodas(""), lKiekis(0), lPabaiga(0) {}
 	Prenumeratorius(string, string, int, int, int, string, int) : pavarde(pavarde), adresas(adresas), gatvesSk(gatvesSk), lPradzia(lPradzia), lIlgis(lIlgis), lKodas(lKodas), lKiekis(lKiekis), lPabaiga(lPabaiga) {}
+	
+	/* Get/Set methods as required, individual for all properties*/
 	string ImtiPavarde() { return pavarde; };
 	string ImtiAdresas() { return adresas; };
 	int ImtiGatvesSk() { return gatvesSk; };

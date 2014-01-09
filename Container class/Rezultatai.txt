@@ -1,0 +1,53 @@
+------------------ 1 Dalis -------------------
+Daugiausiai uzdirbo: 
+  Plungyte
+Dirbta dienu: 2
+Pagaminta detaliu: 198
+Uzdirbo: 1386
+
+Maziausiai uzdirbo: 
+Malukas
+Dirbta dienu: 1
+Pagaminta detaliu: 11
+Uzdirbo: 11
+
+------------------ 2 Dalis -------------------
+xoxo 198
+f8a 21
+098 3
+------------------ 3 Dalis -------------------
+Darbininkai gamine tik vienos rusies detales: 
+Plungyte 198
+Malukas 11
+Petrauskas 10
+Kasperiunas 3
+Visi bendrai pagamino detaliu: 
+222
+------------------ 4 Dalis -------------------
+Darbininkas gamines didziausio ikainio detale: 
+Plungyte Pagamino detaliu: 198
+Darbininkas gamines maziausio ikainio detale: 
+Malukas Pagamino detaliu: 11
+Kartu jie pagamino detaliu: 209
+------------------ 5 Dalis -------------------
+Plungyte Vidutiniskai uzdirbo: 693 Vidutiniskai pagamino detaliu: 99
+Malukas Vidutiniskai uzdirbo: 11 Vidutiniskai pagamino detaliu: 11
+Petrauskas Vidutiniskai uzdirbo: 55 Vidutiniskai pagamino detaliu: 10
+Kasperiunas Vidutiniskai uzdirbo: 13.26 Vidutiniskai pagamino detaliu: 3
+------------------ 6 Dalis -------------------
+Darbininkai gamine detales kuriu verte mazesne uz vidurki
+Detales kainos vidurkis: 6.60027
+Malukas Uzdirbo: 11
+Petrauskas Uzdirbo: 55
+Kasperiunas Uzdirbo: 13.26
+------------------ 7 Dalis -------------------
+6 menesi daugiausiai detaliu pagamino: Plungyte uzdirbo: 1386
+6 menesi maziausiai detaliu pagamino: Petrauskas uzdirbo: 55
+------------------ 8 Dalis -------------------
+Ilgiausiai nedirbes darbininkas: Plungyte
+------------------ 9 Dalis -------------------
+f8a Detales daugiausiai pagamino: Malukas uzdribo11
+f8a Detales maziausiai pagamino: Petrauskas uzdribo55
+------------------ 10 Dalis -------------------
+Ilgiausiai gaminama detale: xoxo Viso jos pagaminta: 198
+ Daugiausiai pagamines darbininkas:Plungyte

@@ -7,4 +7,7 @@ We need to count following data:
 * Workers who were making details on one kind over the period  
 * Workers list who were making most/least expensive details  
 * Average of every worker salary and number of details done per day
-* And other similiar tasks...
+* And other similiar tasks...  
+
+
+Main functions of data processing is in Source.cpp
